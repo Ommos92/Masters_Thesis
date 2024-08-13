@@ -1,0 +1,34 @@
+% Files: equations.tex
+
+%Note Inline Equations without number -- \begin{equation*} ... \end{equation*}
+%Note Inline Equation with number     -- \begin{equation*} ... \end{equation}
+
+\usepackage{amsmath}
+
+%Unimodal Dataset Representation \cite{zong2023self}
+\newcommand{\equationDu}{
+\begin{equation*} \label{eq:du}
+    D_u = \left\{ (x_1, y_1), (x_2, y_2), \ldots, (x_n, y_n) \right\}
+    \end{equation*}
+}
+
+%Multimodal Dataset Representation \cite{zong2023self}
+\newcommand{\equationDm}{
+\begin{equation*} \label{eq:dm}
+    D_m = \left\{ (x_{1}^{1}, \ldots, x_{1}^{k}, y_1), \ldots, (x_{n}^{1}, \ldots, x_{n}^{k}, y_n) \right\}
+    \end{equation*}
+}
+
+% General Form of Contrastive Learning \cite{zong2023self} equation (9)
+\newcommand{\equationGenCL}{
+\begin{equation} \label{eq:genCL}
+    LCon = \sum_{(r_a, r_+, r_-) \in D} \log \frac{sim(r_a, r_+)}{sim(r_a, r_+) + \sum_{j=1}^{Pm} sim(r_a, r_{-j})}
+    \end{equation}
+}
+
+% General Form of Matching Prediction \cite{zong2023self} equation (10)
+\newcommand{\equationGenMP}{
+\begin{equation} \label{eq:genMP}
+    LMatch = \frac{1}{n} \sum_{(x_{i}^{k}) \in D_m} LBCE(p_{i}, z_{i}),\text{ and } p_{i} = g_{\phi}(f_{\psi}(e_{\theta}(x_{i}^{1}, \ldots, x_{i}^{k}))),
+    \end{equation}
+}
