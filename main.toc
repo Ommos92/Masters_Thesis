@@ -1,26 +1,33 @@
 {\pdfbookmark [0]{TABLE OF CONTENTS}{toc}}
-\contentsline {chapter}{LIST OF FIGURES}{vii}{section*.3}%
-\contentsline {chapter}{LIST OF TABLES}{viii}{section*.4}%
+\contentsline {chapter}{LIST OF FIGURES}{ix}{section*.3}%
+\contentsline {chapter}{LIST OF TABLES}{x}{section*.4}%
 \contentsline {chapter}{\numberline {CHAPTER 1:}INTRODUCTION}{1}{section*.5}%
 \contentsline {subsection}{Background}{1}{section*.6}%
 \contentsline {subsection}{Problem Statement}{2}{section*.7}%
-\contentsline {section}{Multimodal Networks}{2}{section*.8}%
-\contentsline {subsection}{Objectives}{2}{section*.9}%
-\contentsline {chapter}{\numberline {CHAPTER 2:}LITERATURE REVIEW}{3}{section*.10}%
-\contentsline {section}{Communication Systems}{3}{section*.11}%
-\contentsline {section}{Prior Deepsense Methods}{4}{section*.12}%
-\contentsline {section}{Large Language Models in Telecommunications}{8}{section*.13}%
-\contentsline {section}{Multimodal networks}{9}{section*.14}%
-\contentsline {section}{Transformer Architectures}{9}{section*.15}%
-\contentsline {section}{Vision Language Models}{9}{section*.16}%
-\contentsline {chapter}{\numberline {CHAPTER 3:}METHODOLOGY}{10}{section*.17}%
-\contentsline {section}{Data Preprocessing}{10}{section*.18}%
-\contentsline {section}{Architecture}{10}{section*.19}%
-\contentsline {section}{Training Setup}{10}{section*.20}%
-\contentsline {section}{Numbering Subheadings}{10}{section*.21}%
-\contentsline {chapter}{\numberline {CHAPTER 4:}Results}{11}{section*.22}%
-\contentsline {section}{Sample Table}{11}{section*.23}%
-\contentsline {chapter}{\numberline {CHAPTER 5:}CONCLUSION}{12}{section*.24}%
-\contentsline {section}{Bookmarks}{12}{section*.25}%
-\contentsline {appendix}{\numberline {APPENDIX A:}TITLE OF APPENDIX}{13}{section*.26}%
-\contentsline {appendix}{\numberline {APPENDIX B:}SECOND APPENDIX}{15}{section*.27}%
+\contentsline {subsection}{Objectives}{2}{section*.8}%
+\contentsline {chapter}{\numberline {CHAPTER 2:}LITERATURE REVIEW}{3}{section*.9}%
+\contentsline {section}{6G Communication Systems}{3}{section*.10}%
+\contentsline {section}{DeepSense 6G Methods}{4}{section*.11}%
+\contentsline {section}{Large Language Models}{8}{section*.12}%
+\contentsline {subsection}{Large Language Model Fundamentals}{9}{section*.13}%
+\contentsline {subsection}{Model Architecture}{9}{section*.14}%
+\contentsline {subsubsection}{Encoder Only Architecture}{9}{section*.15}%
+\contentsline {subsubsection}{Encode-Decoder Architecture}{9}{section*.16}%
+\contentsline {subsubsection}{Decoder Only Architecture}{9}{section*.17}%
+\contentsline {subsection}{Large Language Model Fine-Tuning}{9}{section*.18}%
+\contentsline {subsection}{Large Language Models Inference and Utilization}{9}{section*.19}%
+\contentsline {section}{Multimodal Large Language Models}{10}{section*.20}%
+\contentsline {section}{(}{10}{section*.21}%
+\contentsline {section}{Foundational Model's future impact on 6G Communication Systems}{10}{section*.22}%
+\contentsline {chapter}{\numberline {CHAPTER 3:}METHODOLOGY}{11}{section*.23}%
+\contentsline {section}{Data Preprocessing}{11}{section*.24}%
+\contentsline {section}{Architecture}{11}{section*.25}%
+\contentsline {section}{Training Setup}{11}{section*.26}%
+\contentsline {section}{Numbering Subheadings}{11}{section*.27}%
+\contentsline {chapter}{\numberline {CHAPTER 4:}Results}{12}{section*.28}%
+\contentsline {section}{Sample Table}{12}{section*.29}%
+\contentsline {chapter}{\numberline {CHAPTER 5:}CONCLUSION}{13}{section*.30}%
+\contentsline {section}{Bookmarks}{13}{section*.31}%
+\contentsline {appendix}{\numberline {APPENDIX A:}TITLE OF APPENDIX}{14}{section*.32}%
+\contentsline {appendix}{\numberline {APPENDIX B:}SECOND APPENDIX}{16}{section*.33}%
+\contentsline {chapter}{LIST OF REFERENCES}{18}{section*.34}%

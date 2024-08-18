@@ -113,8 +113,14 @@ INPUT ./main.aux
 INPUT ./main.aux
 INPUT main.aux
 OUTPUT main.aux
-OUTPUT main.out
+INPUT ./main.out
+INPUT ./main.out
+INPUT main.out
+INPUT main.out
 OUTPUT main.pdf
+INPUT ./main.out
+INPUT ./main.out
+OUTPUT main.out
 INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
@@ -169,75 +175,55 @@ INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fo
 INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8t.tfm
 INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8t.tfm
 INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri8t.tfm
-INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8t.tfm
 INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmb8t.vf
 INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmri8t.vf
 INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri8r.tfm
+INPUT ./main.toc
+INPUT ./main.toc
+INPUT main.toc
+OUTPUT main.toc
+INPUT ./main.lof
+INPUT ./main.lof
+INPUT main.lof
+OUTPUT main.lof
+INPUT ./main.lot
+INPUT ./main.lot
+INPUT main.lot
+OUTPUT main.lot
+INPUT ./sections/Literature_Review.tex
+INPUT ./sections/Literature_Review.tex
+INPUT sections/Literature_Review.tex
+INPUT ./Images/Literature_Review/jiang2022computer_paper.png
+INPUT ./Images/Literature_Review/jiang2022computer_paper.png
+INPUT ./Images/Literature_Review/jiang2022computer_paper.png
+INPUT ./Images/Literature_Review/jiang2022computer_paper.png
+INPUT ./Images/Literature_Review/jiang2022computer_paper.png
+INPUT ./Images/Literature_Review/jiang2022computer_paper.png
+INPUT ./Images/Literature_Review/jiang2022computer_paper.png
+INPUT ./Images/Literature_Review/demirhan2022radar_architecture.png
+INPUT ./Images/Literature_Review/demirhan2022radar_architecture.png
+INPUT ./Images/Literature_Review/demirhan2022radar_architecture.png
+INPUT ./Images/Literature_Review/demirhan2022radar_architecture.png
+INPUT ./Images/Literature_Review/demirhan2022radar_architecture.png
+INPUT ./Images/Literature_Review/demirhan2022radar_architecture.png
+INPUT ./Images/Literature_Review/demirhan2022radar_architecture.png
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8t.tfm
 INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmb8t.vf
 INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8r.tfm
-OUTPUT main.toc
-OUTPUT main.lof
-OUTPUT main.lot
-INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/zptmcm7m.vf
-INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/psyro.tfm
-INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi10.tfm
-INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/zptmcm7m.vf
-INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/psyro.tfm
-INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi10.tfm
-INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri8r.tfm
-INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/zptmcm7t.vf
-INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/symbol/psyr.tfm
-INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr10.tfm
-INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/zptmcm7y.vf
-INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy10.tfm
-INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/public/rsfs/rsfs10.tfm
-INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/zptmcm7t.vf
-INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/symbol/psyr.tfm
-INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8r.tfm
-INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr10.tfm
-INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/zptmcm7v.vf
-INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmex10.tfm
-INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmex10.tfm
-INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/symbol/psyr.tfm
-INPUT ./sections/Communication_Systems_Literature_Review.tex
-INPUT ./sections/Communication_Systems_Literature_Review.tex
-INPUT sections/Communication_Systems_Literature_Review.tex
-INPUT ./sections/Deepsense_Prior_Literature_Review.tex
-INPUT ./sections/Deepsense_Prior_Literature_Review.tex
-INPUT sections/Deepsense_Prior_Literature_Review.tex
-INPUT ./Images/Literature_Review/jiang2022computer_paper.png
-INPUT ./Images/Literature_Review/jiang2022computer_paper.png
-INPUT ./Images/Literature_Review/jiang2022computer_paper.png
-INPUT ./Images/Literature_Review/jiang2022computer_paper.png
-INPUT ./Images/Literature_Review/jiang2022computer_paper.png
-INPUT ./Images/Literature_Review/jiang2022computer_paper.png
-INPUT ./Images/Literature_Review/jiang2022computer_paper.png
-INPUT ./Images/Literature_Review/demirhan2022radar_architecture.png
-INPUT ./Images/Literature_Review/demirhan2022radar_architecture.png
-INPUT ./Images/Literature_Review/demirhan2022radar_architecture.png
-INPUT ./Images/Literature_Review/demirhan2022radar_architecture.png
-INPUT ./Images/Literature_Review/demirhan2022radar_architecture.png
-INPUT ./Images/Literature_Review/demirhan2022radar_architecture.png
-INPUT ./Images/Literature_Review/demirhan2022radar_architecture.png
-INPUT ./sections/Large_Langauge_Models_Literature_Review.tex
-INPUT ./sections/Large_Langauge_Models_Literature_Review.tex
-INPUT sections/Large_Langauge_Models_Literature_Review.tex
 INPUT ./main.bbl
 INPUT ./main.bbl
 INPUT main.bbl
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/t1cmtt.fd
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/t1cmtt.fd
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/t1cmtt.fd
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/ectt1200.tfm
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1200.pk
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1200.pk
 INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc
-INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb
-INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb
-INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
-INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
-INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmb8a.pfb
 INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmb8a.pfb
 INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmr8a.pfb

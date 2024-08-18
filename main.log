@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.8.18)  18 AUG 2024 12:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.8.18)  18 AUG 2024 14:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -273,7 +273,11 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count292
 \l__pdf_internal_box=\box54
-) (main.aux)
+) (main.aux
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
@@ -295,6 +299,7 @@ LaTeX Font Info:    ... okay on input line 54.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 54.
 LaTeX Font Info:    ... okay on input line 54.
 Package hyperref Info: Link coloring OFF on input line 54.
+ (main.out) (main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
@@ -368,10 +373,6 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.ii}) has 
 l.65 \begin{abstract}
                       [2]
 
-LaTeX Warning: Citation `charan2022multi' on page iii undefined on input line 75.
-
-
-
 [3
 
 ]
@@ -380,32 +381,43 @@ LaTeX Warning: Citation `charan2022multi' on page iii undefined on input line 75
 
 [5
 
+] (main.toc
+
+[6
+
 ]
-No file main.toc.
+
+[7])
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
 
 
-[6
+[8] (main.lof
+Overfull \hbox (1.30757pt too wide) detected at line 5
+\T1/ptm/m/n/12 Figure 2.1:  
+ []
 
-]
-No file main.lof.
+
+Overfull \hbox (1.30757pt too wide) detected at line 6
+\T1/ptm/m/n/12 Figure 2.2:  
+ []
+
+)
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
 
 
-[7
+[9
 
-]
-No file main.lot.
+] (main.lot)
 \tf@lot=\write7
 \openout7 = `main.lot'.
 
 
 
-[8
+[10
 
 ]
 CHAPTER 1:
@@ -415,180 +427,115 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 (hyperref)                than one, level fixed on input line 121.
 
 
-LaTeX Warning: Citation `salameh20225g' on page 1 undefined on input line 124.
-
-
-LaTeX Warning: Citation `ITU2370' on page 1 undefined on input line 124.
-
-
-LaTeX Warning: Citation `alkhateeb2023deepsense' on page 1 undefined on input line 129.
-
-
 
 [1
 
 
 ]
 
-LaTeX Warning: Citation `zong2023self' on page 2 undefined on input line 137.
-
-
-LaTeX Warning: Citation `zong2023self' on page 2 undefined on input line 139.
-
-
-
 [2]
 CHAPTER 2:
-(sections/Communication_Systems_Literature_Review.tex
-
-LaTeX Warning: Citation `zhou2023survey' on page 3 undefined on input line 4.
-
-
-LaTeX Warning: Citation `zhou2024large' on page 3 undefined on input line 4.
-
-
-LaTeX Warning: Citation `zhou2021ran' on page 3 undefined on input line 4.
-
-
-LaTeX Warning: Citation `vuckovic2021map' on page 3 undefined on input line 4.
-
-
-LaTeX Warning: Citation `vuckovic2024csi' on page 3 undefined on input line 4.
-
-
+(sections/Literature_Review.tex
 
 [3
 
 ]
 
-LaTeX Warning: Citation `radford2019language' on page 4 undefined on input line 8.
-
-sections/Communication_Systems_Literature_Review.tex:8: Undefined control sequence.
-l.8 ...and different ways. The technique of \texit
-                                                  (prompt engineering) is a ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-LaTeX Warning: Citation `liu2023pre' on page 4 undefined on input line 8.
-
-
-LaTeX Warning: Citation `brown2020language' on page 4 undefined on input line 8.
-
-
-LaTeX Warning: Citation `huang2023language' on page 4 undefined on input line 8.
-
-) (sections/Deepsense_Prior_Literature_Review.tex
-
-LaTeX Warning: Citation `alkhateeb2023deepsense' on page 4 undefined on input line 2.
-
-
-
 [4]
-
-LaTeX Warning: Citation `jiang2022computer' on page 5 undefined on input line 4.
-
-
-
-[5]
-<Images/Literature_Review/jiang2022computer_paper.png, id=80, 461.47406pt x 225.09094pt>
+<Images/Literature_Review/jiang2022computer_paper.png, id=272, 461.47406pt x 225.09094pt>
 File: Images/Literature_Review/jiang2022computer_paper.png Graphic file (type png)
 <use Images/Literature_Review/jiang2022computer_paper.png>
-Package pdftex.def Info: Images/Literature_Review/jiang2022computer_paper.png  used on input line 8.
+Package pdftex.def Info: Images/Literature_Review/jiang2022computer_paper.png  used on input line 13.
 (pdftex.def)             Requested size: 234.87749pt x 114.56473pt.
-
-
-LaTeX Warning: Citation `jiang2022computer' on page 6 undefined on input line 9.
-
-
-LaTeX Warning: Citation `jiang2022computer' on page 6 undefined on input line 9.
-
-
-LaTeX Warning: Citation `morais2023position' on page 6 undefined on input line 13.
-
-
-
-[6 <./Images/Literature_Review/jiang2022computer_paper.png>]
-
-LaTeX Warning: Citation `demirhan2022radar' on page 7 undefined on input line 15.
-
-<Images/Literature_Review/demirhan2022radar_architecture.png, id=88, 625.58719pt x 218.31563pt>
-File: Images/Literature_Review/demirhan2022radar_architecture.png Graphic file (type png)
-<use Images/Literature_Review/demirhan2022radar_architecture.png>
-Package pdftex.def Info: Images/Literature_Review/demirhan2022radar_architecture.png  used on input line 19.
-(pdftex.def)             Requested size: 234.87749pt x 81.96475pt.
-
-LaTeX Warning: Citation `jiang2022computer' on page 7 undefined on input line 20.
-
-
-LaTeX Warning: Citation `jiang2022computer' on page 7 undefined on input line 20.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[7]) (sections/Large_Langauge_Models_Literature_Review.tex
+[5]
 
-LaTeX Warning: Citation `radford2019language' on page 8 undefined on input line 4.
+[6 <./Images/Literature_Review/jiang2022computer_paper.png>]
+<Images/Literature_Review/demirhan2022radar_architecture.png, id=288, 625.58719pt x 218.31563pt>
+File: Images/Literature_Review/demirhan2022radar_architecture.png Graphic file (type png)
+<use Images/Literature_Review/demirhan2022radar_architecture.png>
+Package pdftex.def Info: Images/Literature_Review/demirhan2022radar_architecture.png  used on input line 24.
+(pdftex.def)             Requested size: 234.87749pt x 81.96475pt.
+
+
+[7 <./Images/Literature_Review/demirhan2022radar_architecture.png>]
+
+[8]
+
+LaTeX Warning: Citation `huang2023language' on page 9 undefined on input line 57.
 
 
 
-[8 <./Images/Literature_Review/demirhan2022radar_architecture.png>])
+[9])
 
-[9]
+[10]
 CHAPTER 3:
-
-
-[10
-
-]
-CHAPTER 4:
 
 
 [11
 
 ]
-CHAPTER 5:
+CHAPTER 4:
 
 
 [12
 
 ]
-pdfTeX warning (ext4): destination with the same identifier (name{chapter.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.225 \chapter{TITLE OF APPENDIX}
-                                 
-APPENDIX A:
+CHAPTER 5:
 
 
 [13
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 236--242
+pdfTeX warning (ext4): destination with the same identifier (name{chapter.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.203 \chapter{TITLE OF APPENDIX}
+                                 
+APPENDIX A:
+
+
+[14
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 214--220
 
  []
 
 
 
-[14]
+[15]
 pdfTeX warning (ext4): destination with the same identifier (name{chapter.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.244 \chapter{SECOND APPENDIX}
+l.222 \chapter{SECOND APPENDIX}
                                
 APPENDIX B:
 
 
-[15
+[16
 
 ]
 
-[16] (main.bbl) (main.aux)
+[17] (main.bbl
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 31.
+ (/Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+
+[18
+
+
+]
+
+[19])
+
+[20] (main.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-07-20>
@@ -598,29 +545,23 @@ L3 programming layer <2024-07-20>
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  66FF80308B0F7181EB5FC361A531271E;4095.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: F59B8AA0EAA028097117DD7559250E25;5746.
  ) 
 Here is how much of TeX's memory you used:
- 9897 strings out of 473899
- 158851 string characters out of 5713796
- 1932957 words of memory out of 5000000
- 32545 multiletter control sequences out of 15000+600000
- 586525 words of font info for 81 fonts, out of 8000000 for 9000
+ 9985 strings out of 473899
+ 160238 string characters out of 5713796
+ 1934957 words of memory out of 5000000
+ 32610 multiletter control sequences out of 15000+600000
+ 580708 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 90i,8n,93p,2135b,450s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc}</Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb></Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmb8a.pfb></Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmr8a.pfb></Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (24 pages, 191432 bytes).
+ 90i,8n,93p,2412b,450s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1200.pk>{/Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc}</Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmb8a.pfb></Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmr8a.pfb></Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (30 pages, 201808 bytes).
 PDF statistics:
- 197 PDF objects out of 1000 (max. 8388607)
- 61 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 426 PDF objects out of 1000 (max. 8388607)
+ 91 named destinations out of 1000 (max. 500000)
+ 291 words of extra memory for PDF output out of 10000 (max. 10000000)
 

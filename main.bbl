@@ -1,0 +1,99 @@
+\begin{thebibliography}{10}
+
+\bibitem{alkhateeb2023deepsense}
+Ahmed Alkhateeb, Gouranga Charan, Tawfik Osman, Andrew Hredzak, Joao Morais,
+  Umut Demirhan, and Nikhil Srinivas.
+\newblock Deepsense 6g: A large-scale real-world multi-modal sensing and
+  communication dataset.
+\newblock {\em IEEE Communications Magazine}, 2023.
+
+\bibitem{brown2020language}
+Tom~B Brown.
+\newblock Language models are few-shot learners.
+\newblock {\em arXiv preprint ArXiv:2005.14165}, 2020.
+
+\bibitem{charan2022multi}
+Gouranga Charan, Umut Demirhan, Jo{\~a}o Morais, Arash Behboodi, Hamed
+  Pezeshki, and Ahmed Alkhateeb.
+\newblock Multi-modal beam prediction challenge 2022: Towards generalization.
+\newblock {\em arXiv preprint arXiv:2209.07519}, 2022.
+
+\bibitem{demirhan2022radar}
+Umut Demirhan and Ahmed Alkhateeb.
+\newblock Radar aided 6g beam prediction: Deep learning algorithms and
+  real-world demonstration.
+\newblock In {\em 2022 IEEE Wireless Communications and Networking Conference
+  (WCNC)}, pages 2655--2660. IEEE, 2022.
+
+\bibitem{ITU2370}
+{International Telecommunication Union}.
+\newblock Imt traffic estimates for the years 2020 to 2030.
+\newblock \url{https://www.itu.int/pub/R-REP-M.2370-2015}, 2015.
+\newblock Accessed: [Insert date here].
+
+\bibitem{jiang2022computer}
+Shuaifeng Jiang and Ahmed Alkhateeb.
+\newblock Computer vision aided beam tracking in a real-world millimeter wave
+  deployment.
+\newblock In {\em 2022 IEEE Globecom Workshops (GC Wkshps)}, pages 142--147.
+  IEEE, 2022.
+
+\bibitem{liu2023pre}
+Pengfei Liu, Weizhe Yuan, Jinlan Fu, Zhengbao Jiang, Hiroaki Hayashi, and
+  Graham Neubig.
+\newblock Pre-train, prompt, and predict: A systematic survey of prompting
+  methods in natural language processing.
+\newblock {\em ACM Computing Surveys}, 55(9):1--35, 2023.
+
+\bibitem{morais2023position}
+Jo{\~a}o Morais, Arash Bchboodi, Hamed Pezeshki, and Ahmed Alkhateeb.
+\newblock Position-aided beam prediction in the real world: How useful gps
+  locations actually are?
+\newblock In {\em ICC 2023-IEEE International Conference on Communications},
+  pages 1824--1829. IEEE, 2023.
+
+\bibitem{radford2019language}
+Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, Ilya
+  Sutskever, et~al.
+\newblock Language models are unsupervised multitask learners.
+\newblock {\em OpenAI blog}, 1(8):9, 2019.
+
+\bibitem{salameh20225g}
+Ahmed~I Salameh and Mohamed El~Tarhuni.
+\newblock From 5g to 6g—challenges, technologies, and applications.
+\newblock {\em Future Internet}, 14(4):117, 2022.
+
+\bibitem{vuckovic2021map}
+Katarina Vuckovic, Farzam Hejazi, and Nazanin Rahnavard.
+\newblock Map-csi: Single-site map-assisted localization using massive mimo
+  csi.
+\newblock In {\em 2021 IEEE Global Communications Conference (GLOBECOM)}, pages
+  1--6. IEEE, 2021.
+
+\bibitem{vuckovic2024csi}
+Katarina Vuckovic, Saba Hosseini, Farzam Hejazi, and Nazanin Rahnavard.
+\newblock A csi-based data-driven localization framework using small-scale
+  training datasets in single-site mimo systems.
+\newblock {\em IEEE Transactions on Wireless Communications}, pages 1--1, 2024.
+
+\bibitem{zhou2021ran}
+Hao Zhou, Medhat Elsayed, and Melike Erol-Kantarci.
+\newblock Ran resource slicing in 5g using multi-agent correlated q-learning.
+\newblock In {\em 2021 IEEE 32nd Annual International Symposium on Personal,
+  Indoor and Mobile Radio Communications (PIMRC)}, pages 1179--1184. IEEE,
+  2021.
+
+\bibitem{zhou2023survey}
+Hao Zhou, Melike Erol-Kantarci, Yuanwei Liu, and H~Vincent Poor.
+\newblock A survey on model-based, heuristic, and machine learning optimization
+  approaches in ris-aided wireless networks.
+\newblock {\em IEEE Communications Surveys \& Tutorials}, 2023.
+
+\bibitem{zhou2024large}
+Hao Zhou, Chengming Hu, Ye~Yuan, Yufei Cui, Yili Jin, Can Chen, Haolun Wu, Dun
+  Yuan, Li~Jiang, Di~Wu, et~al.
+\newblock Large language model (llm) for telecommunications: A comprehensive
+  survey on principles, key techniques, and opportunities.
+\newblock {\em arXiv preprint arXiv:2405.10825}, 2024.
+
+\end{thebibliography}
