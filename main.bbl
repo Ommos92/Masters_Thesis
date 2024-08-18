@@ -1,0 +1,53 @@
+\begin{thebibliography}{1}
+
+\bibitem{alkhateeb2023deepsense}
+Ahmed Alkhateeb, Gouranga Charan, Tawfik Osman, Andrew Hredzak, Joao Morais,
+  Umut Demirhan, and Nikhil Srinivas.
+\newblock Deepsense 6g: A large-scale real-world multi-modal sensing and
+  communication dataset.
+\newblock {\em IEEE Communications Magazine}, 2023.
+
+\bibitem{charan2022multi}
+Gouranga Charan, Umut Demirhan, Jo{\~a}o Morais, Arash Behboodi, Hamed
+  Pezeshki, and Ahmed Alkhateeb.
+\newblock Multi-modal beam prediction challenge 2022: Towards generalization.
+\newblock {\em arXiv preprint arXiv:2209.07519}, 2022.
+
+\bibitem{demirhan2022radar}
+Umut Demirhan and Ahmed Alkhateeb.
+\newblock Radar aided 6g beam prediction: Deep learning algorithms and
+  real-world demonstration.
+\newblock In {\em 2022 IEEE Wireless Communications and Networking Conference
+  (WCNC)}, pages 2655--2660. IEEE, 2022.
+
+\bibitem{ITU2370}
+{International Telecommunication Union}.
+\newblock Imt traffic estimates for the years 2020 to 2030.
+\newblock \url{https://www.itu.int/pub/R-REP-M.2370-2015}, 2015.
+\newblock Accessed: [Insert date here].
+
+\bibitem{jiang2022computer}
+Shuaifeng Jiang and Ahmed Alkhateeb.
+\newblock Computer vision aided beam tracking in a real-world millimeter wave
+  deployment.
+\newblock In {\em 2022 IEEE Globecom Workshops (GC Wkshps)}, pages 142--147.
+  IEEE, 2022.
+
+\bibitem{morais2023position}
+Jo{\~a}o Morais, Arash Bchboodi, Hamed Pezeshki, and Ahmed Alkhateeb.
+\newblock Position-aided beam prediction in the real world: How useful gps
+  locations actually are?
+\newblock In {\em ICC 2023-IEEE International Conference on Communications},
+  pages 1824--1829. IEEE, 2023.
+
+\bibitem{salameh20225g}
+Ahmed~I Salameh and Mohamed El~Tarhuni.
+\newblock From 5g to 6g—challenges, technologies, and applications.
+\newblock {\em Future Internet}, 14(4):117, 2022.
+
+\bibitem{zong2023self}
+Yongshuo Zong, Oisin Mac~Aodha, and Timothy Hospedales.
+\newblock Self-supervised multimodal learning: A survey.
+\newblock {\em arXiv preprint arXiv:2304.01008}, 2023.
+
+\end{thebibliography}

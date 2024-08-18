@@ -1,0 +1,260 @@
+PWD /Users/andrewelkommos/Documents/gitworkspace/Masters_Thesis
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt
+INPUT /Users/andrewelkommos/Documents/gitworkspace/Masters_Thesis/main.tex
+OUTPUT main.log
+INPUT ./UCF_ETD.cls
+INPUT UCF_ETD.cls
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/setspace/setspace.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/setspace/setspace.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/etoolbox/etoolbox.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/etoolbox/etoolbox.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hyperref.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hyperref.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/iftex.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/iftex.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdfescape/pdfescape.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdfescape/pdfescape.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdftexcmds/pdftexcmds.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdftexcmds/pdftexcmds.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/generic/infwarerr/infwarerr.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/generic/infwarerr/infwarerr.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hycolor/hycolor.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hycolor/hycolor.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvoptions/kvoptions.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvoptions/kvoptions.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/generic/stringenc/stringenc.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/generic/stringenc/stringenc.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/pd1enc.def
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/pd1enc.def
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/pd1enc.def
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/generic/intcalc/intcalc.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/generic/intcalc/intcalc.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/puenc.def
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/puenc.def
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/puenc.def
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/url.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/url.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/generic/bitset/bitset.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/generic/bitset/bitset.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/generic/atbegshi/atbegshi.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/atbegshi-ltx.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/atbegshi-ltx.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hpdftex.def
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hpdftex.def
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hpdftex.def
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/atveryend/atveryend.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/atveryend-ltx.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/atveryend-ltx.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/generic/uniquecounter/uniquecounter.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/generic/uniquecounter/uniquecounter.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/bk12.clo
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/bk12.clo
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/bk12.clo
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr12.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/fontenc.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/fontenc.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/ecrm1200.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/inputenc.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/inputenc.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/mathptmx.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/mathptmx.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/comment/comment.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/comment/comment.sty
+INPUT ./equations.tex
+INPUT ./equations.tex
+INPUT equations.tex
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/t1ptm.fd
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/t1ptm.fd
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/t1ptm.fd
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
+INPUT ./main.aux
+INPUT ./main.aux
+INPUT main.aux
+OUTPUT main.aux
+INPUT ./main.out
+INPUT ./main.out
+INPUT main.out
+INPUT main.out
+OUTPUT main.pdf
+INPUT ./main.out
+INPUT ./main.out
+OUTPUT main.out
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/grfext/grfext.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/grfext/grfext.sty
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ot1ztmcm.fd
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ot1ztmcm.fd
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ot1ztmcm.fd
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7t.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7t.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7t.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/omlztmcm.fd
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/omlztmcm.fd
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/omlztmcm.fd
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7m.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7m.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7m.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/omsztmcm.fd
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/omsztmcm.fd
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/omsztmcm.fd
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7y.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7y.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7y.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/omxztmcm.fd
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/omxztmcm.fd
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/omxztmcm.fd
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7v.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7v.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7v.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ot1ptm.fd
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ot1ptm.fd
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ot1ptm.fd
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmr8t.vf
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ts1ptm.fd
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ts1ptm.fd
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ts1ptm.fd
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8c.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmr8c.vf
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8t.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri8t.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmb8t.vf
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8r.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmri8t.vf
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri8r.tfm
+INPUT ./main.toc
+INPUT ./main.toc
+INPUT main.toc
+OUTPUT main.toc
+INPUT ./main.lof
+INPUT ./main.lof
+INPUT main.lof
+OUTPUT main.lof
+INPUT ./main.lot
+INPUT ./main.lot
+INPUT main.lot
+OUTPUT main.lot
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/zptmcm7m.vf
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/psyro.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi10.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/zptmcm7m.vf
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/psyro.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi10.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri8r.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/zptmcm7t.vf
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/symbol/psyr.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr10.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/zptmcm7y.vf
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/public/rsfs/rsfs10.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/zptmcm7t.vf
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/symbol/psyr.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr10.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/zptmcm7v.vf
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmex10.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmex10.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/symbol/psyr.tfm
+INPUT ./sections/literature_review.tex
+INPUT ./sections/literature_review.tex
+INPUT ./sections/literature_review.tex
+INPUT ./sections/literature_review.tex
+INPUT sections/literature_review.tex
+INPUT ./Images/Literature_Review/jiang2022computer_paper.png
+INPUT ./Images/Literature_Review/jiang2022computer_paper.png
+INPUT ./Images/Literature_Review/jiang2022computer_paper.png
+INPUT ./Images/Literature_Review/jiang2022computer_paper.png
+INPUT ./Images/Literature_Review/jiang2022computer_paper.png
+INPUT ./Images/Literature_Review/jiang2022computer_paper.png
+INPUT ./Images/Literature_Review/jiang2022computer_paper.png
+INPUT ./Images/Literature_Review/demirhan2022radar_architecture.png
+INPUT ./Images/Literature_Review/demirhan2022radar_architecture.png
+INPUT ./Images/Literature_Review/demirhan2022radar_architecture.png
+INPUT ./Images/Literature_Review/demirhan2022radar_architecture.png
+INPUT ./Images/Literature_Review/demirhan2022radar_architecture.png
+INPUT ./Images/Literature_Review/demirhan2022radar_architecture.png
+INPUT ./Images/Literature_Review/demirhan2022radar_architecture.png
+INPUT ./main.bbl
+INPUT ./main.bbl
+INPUT main.bbl
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/t1cmtt.fd
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/t1cmtt.fd
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/t1cmtt.fd
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/ectt1200.tfm
+INPUT main.aux
+INPUT ./main.out
+INPUT ./main.out
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1200.pk
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1200.pk
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmb8a.pfb
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmb8a.pfb
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmr8a.pfb
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmr8a.pfb
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmri8a.pfb
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmri8a.pfb
