@@ -191,6 +191,7 @@ INPUT ./main.lot
 INPUT ./main.lot
 INPUT main.lot
 OUTPUT main.lot
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8t.tfm
 INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/zptmcm7m.vf
 INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/psyro.tfm
 INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi10.tfm
@@ -208,15 +209,15 @@ INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fo
 INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/symbol/psyr.tfm
 INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8r.tfm
 INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr10.tfm
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmb8t.vf
+INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/zptmcm7v.vf
 INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmex10.tfm
 INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmex10.tfm
 INPUT /Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/symbol/psyr.tfm
-INPUT ./sections/literature_review.tex
-INPUT ./sections/literature_review.tex
-INPUT ./sections/literature_review.tex
-INPUT ./sections/literature_review.tex
-INPUT sections/literature_review.tex
+INPUT ./sections/Deepsense_Prior_Literature_Review.tex
+INPUT ./sections/Deepsense_Prior_Literature_Review.tex
+INPUT sections/Deepsense_Prior_Literature_Review.tex
 INPUT ./Images/Literature_Review/jiang2022computer_paper.png
 INPUT ./Images/Literature_Review/jiang2022computer_paper.png
 INPUT ./Images/Literature_Review/jiang2022computer_paper.png
@@ -231,6 +232,9 @@ INPUT ./Images/Literature_Review/demirhan2022radar_architecture.png
 INPUT ./Images/Literature_Review/demirhan2022radar_architecture.png
 INPUT ./Images/Literature_Review/demirhan2022radar_architecture.png
 INPUT ./Images/Literature_Review/demirhan2022radar_architecture.png
+INPUT ./sections/Large_Langauge_Models_Literature_Review.tex
+INPUT ./sections/Large_Langauge_Models_Literature_Review.tex
+INPUT sections/Large_Langauge_Models_Literature_Review.tex
 INPUT ./main.bbl
 INPUT ./main.bbl
 INPUT main.bbl
