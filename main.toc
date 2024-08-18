@@ -8,7 +8,7 @@
 \contentsline {subsection}{Objectives}{2}{section*.9}%
 \contentsline {chapter}{\numberline {CHAPTER 2:}LITERATURE REVIEW}{3}{section*.10}%
 \contentsline {section}{Prior Deepsense Methods}{3}{section*.11}%
-\contentsline {section}{Large Language Models Literature Review}{7}{section*.12}%
+\contentsline {section}{Large Language Models in Telecommunications}{7}{section*.12}%
 \contentsline {section}{Multimodal networks}{7}{section*.13}%
 \contentsline {section}{Transformer Architectures}{7}{section*.14}%
 \contentsline {section}{Vision Language Models}{7}{section*.15}%
