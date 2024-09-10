@@ -12,12 +12,6 @@ Tom~B Brown.
 \newblock Language models are few-shot learners.
 \newblock {\em arXiv preprint ArXiv:2005.14165}, 2020.
 
-\bibitem{charan2022multi}
-Gouranga Charan, Umut Demirhan, Jo{\~a}o Morais, Arash Behboodi, Hamed
-  Pezeshki, and Ahmed Alkhateeb.
-\newblock Multi-modal beam prediction challenge 2022: Towards generalization.
-\newblock {\em arXiv preprint arXiv:2209.07519}, 2022.
-
 \bibitem{demirhan2022radar}
 Umut Demirhan and Ahmed Alkhateeb.
 \newblock Radar aided 6g beam prediction: Deep learning algorithms and

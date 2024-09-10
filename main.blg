@@ -6,45 +6,45 @@ The style file: plain.bst
 Reallocating 'name_of_file' (item size: 1) to 11 items.
 Database file #1: references.bib
 Warning--I didn't find a database entry for "huang2023language"
-You've used 15 entries,
+You've used 14 entries,
             2118 wiz_defined-function locations,
-            581 strings with 7269 characters,
-and the built_in function-call counts, 6043 in all, are:
-= -- 587
-> -- 358
+            577 strings with 7040 characters,
+and the built_in function-call counts, 5679 in all, are:
+= -- 556
+> -- 325
 < -- 6
-+ -- 143
-- -- 126
-* -- 420
-:= -- 1004
-add.period$ -- 51
-call.type$ -- 15
-change.case$ -- 106
++ -- 130
+- -- 114
+* -- 391
+:= -- 935
+add.period$ -- 48
+call.type$ -- 14
+change.case$ -- 97
 chr.to.int$ -- 0
-cite$ -- 15
-duplicate$ -- 223
-empty$ -- 410
-format.name$ -- 126
-if$ -- 1273
+cite$ -- 14
+duplicate$ -- 213
+empty$ -- 393
+format.name$ -- 114
+if$ -- 1205
 int.to.chr$ -- 0
-int.to.str$ -- 15
-missing$ -- 14
-newline$ -- 79
-num.names$ -- 30
-pop$ -- 119
+int.to.str$ -- 14
+missing$ -- 13
+newline$ -- 74
+num.names$ -- 28
+pop$ -- 110
 preamble$ -- 1
-purify$ -- 91
+purify$ -- 83
 quote$ -- 0
-skip$ -- 172
+skip$ -- 165
 stack$ -- 0
-substring$ -- 285
-swap$ -- 72
+substring$ -- 280
+swap$ -- 71
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 60
+type$ -- 56
 warning$ -- 0
-while$ -- 51
-width$ -- 17
-write$ -- 168
+while$ -- 49
+width$ -- 16
+write$ -- 158
 (There was 1 warning)
