@@ -1,15 +1,15 @@
 # Fdb version 4
-["bibtex main"] 1725936243.11854 "main.aux" "main.bbl" "main" 1725936244.66668 0
-  "./references.bib" 1725935938.37454 7657 6ed7924b73cf775a04bcc4d53ca64683 ""
+["bibtex main"] 1743085742.1062 "main.aux" "main.bbl" "main" 1743087055.95059 0
+  "./references.bib" 1727827967.80057 9014 d5d5dffde49ff26f4b36963cf809d602 ""
   "/Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/bibtex/bst/bibtex/plain.bst" 1723518716.10616 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "main.aux" 1725936243.98696 6611 3f7c6c21116d06f364e2cd5f2c622db1 "pdflatex"
+  "main.aux" 1743087055.22434 6618 b2c247238908b420c83e869dd5c7cb49 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1725936243.41586 "/Users/andrewelkommos/Documents/gitworkspace/Masters_Thesis/main.tex" "main.pdf" "main" 1725936244.66689 0
-  "/Users/andrewelkommos/Documents/gitworkspace/Masters_Thesis/main.tex" 1725936239.53853 10897 4d72b4f36b6f0fae3dbdb99bf20035f7 ""
-  "/Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1723977269.22481 82507 a9eef8696c92627b87e9975edea03b2a ""
+["pdflatex"] 1743087054.56986 "/Users/andrewelkommos/Documents/gitworkspace/Masters_Thesis/main.tex" "main.pdf" "main" 1743087055.95078 0
+  "/Users/andrewelkommos/Documents/gitworkspace/Masters_Thesis/main.tex" 1743087053.70664 11721 315ea33c43e566f59d75bbeb393576d3 ""
+  "/Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1740505501.55865 83358 a8328cf182cf32ae8c92cd2e930e6977 ""
   "/Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1200.pk" 1723977333.86585 24152 8599e4b8037930b3f4254cdb9189d7af ""
   "/Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1723977169.29027 24277933 9f49391e7442ce578f2aff821dd2fdc7 ""
   "/Users/andrewelkommos/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc" 1723518754.47885 4993 1194fb36dfcb11d9ae9802f2b00b60a3 ""
@@ -98,13 +98,13 @@
   "Images/Literature_Review/jiang2022computer_paper.png" 1723529488 32383 07e8cd0a823b99cb1d57b43ab488e875 ""
   "UCF_ETD.cls" 1723978880.68832 34883 ca374e4e5000e04b1b2c15a81ae23704 ""
   "equations.tex" 1723529484 1234 3117338fefeeb92bbc27f6e9a86d3fbf ""
-  "main.aux" 1725936243.98696 6611 3f7c6c21116d06f364e2cd5f2c622db1 "pdflatex"
-  "main.bbl" 1725936243.36165 3752 d8122f070c2b806d78343f1448cf7d33 "bibtex main"
-  "main.lof" 1725936243.98895 627 5962313f110be486eee3841a311d1fc2 "pdflatex"
-  "main.lot" 1725936243.98898 311 a18caf568e39e7b7a0e3888709854e76 "pdflatex"
-  "main.out" 1725936243.98853 5746 f59b8aa0eaa028097117dd7559250e25 "pdflatex"
-  "main.tex" 1725936239.53853 10897 4d72b4f36b6f0fae3dbdb99bf20035f7 ""
-  "main.toc" 1725936243.98891 2265 4e0f3f41d79769c8cfe2ea23c0074ab9 "pdflatex"
+  "main.aux" 1743087055.22434 6618 b2c247238908b420c83e869dd5c7cb49 "pdflatex"
+  "main.bbl" 1743085742.34716 3752 d8122f070c2b806d78343f1448cf7d33 "bibtex main"
+  "main.lof" 1743087055.22636 627 6134e81127edb83aebfdff5c109f928f "pdflatex"
+  "main.lot" 1743087055.2264 311 7bc96bc735e0b7a97c425b7333b92c9c "pdflatex"
+  "main.out" 1743087055.22584 5746 f59b8aa0eaa028097117dd7559250e25 "pdflatex"
+  "main.tex" 1743087053.70664 11721 315ea33c43e566f59d75bbeb393576d3 ""
+  "main.toc" 1743087055.22629 2272 5fd97ea3618faa79326e7bd2beab083f "pdflatex"
   "sections/Literature_Review.tex" 1724004356.54078 15054 9ff02fe281b98c7cb42374ae183b9bf0 ""
   (generated)
   "main.aux"

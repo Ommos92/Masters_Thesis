@@ -92,7 +92,7 @@ The Introduction presents an overview of the thesis or dissertation material to 
 \begin{comment}
 Notes and Guidance for Introduction
 1. Background - Introduce readers to current state of DL/AI in communications. Talk about Evolution and Significance of real world datasets like deepsnse or others...
-2. Problem Statement - Define the problem clearly -- Beam Prediction
+2. Problem Statement - Define the problem clearly 
 3. Objective - Give the main objective of the thesis such as Beam Prediction and domain adaptation, using multimodal.
 
 Multimodal Networks 
@@ -119,6 +119,15 @@ The "Deepsense 6G Dataset" is a large-scale dataset based on real-world measurem
 
 \subsection{Problem Statement}
 % Problem statement is to define the problem clearly -- Beam Prediction
+In next-generation communication systems, accurately estimating channel state information and modeling complex environments using heterogeneous sensor data is not merely a technical hurdle—it is a critical challenge with profound real-world implications. Precise channel estimation is vital, as mmWave antennas depend on highly accurate channel data to perform adaptive beamforming and robust interference mitigation. Without this accuracy, directional transmissions become misaligned, leading to unreliable connectivity and increased latency.
+
+Inaccuracies in channel estimation compromise network reliability, a fundamental requirement for mission-critical applications such as autonomous driving, remote healthcare, and industrial automation. In unpredictable, sensor-noisy environments, even minor errors can escalate into severe operational failures, risking public safety and economic productivity.
+
+Solving this problem unlocks the potential for adaptive beamforming, precise localization, and interference suppression that can revolutionize communication infrastructure, laying the foundation for a resilient, high-performance network to support the ever-growing demands of our interconnected society.
+
+This research proposes leveraging a matching flow/diffusion paradigm to achieve robust cross-modal alignment and environmental modeling. By integrating diverse sensor data streams—despite challenges like sensor noise, misalignment among modalities, and dynamic environmental conditions—the approach aims to bridge modality gaps and enhance channel state estimation. In doing so, it aspires to enable subsystems like mmWave antennas to interact seamlessly, transforming how communication systems perform in real-world scenarios.
+
+By incorporating the core insights—recognizing the necessity of precise channel estimation, the consequences of network unreliability, and the broader societal imperative for robust communication—this research calls on the community to develop innovative, cross-disciplinary solutions that will redefine the future of next-generation communication networks.
 
 \subsection{Objectives}
 % Objectives are to see what can type capabilities can be 
@@ -180,21 +189,7 @@ However, bookmarks should include all major and chapter headings and at least fi
 
 \chapter{TITLE OF APPENDIX}
 \newpage
-% You must include a \newpage command after each appendix.  And each appendix can be inserted as a chapter after the \appendix command.  
 
-% This template is set to auto-letter multiple appendices.  
-
-% If you change the secnumdepth to -1  and use multiple appendices, you must include the appendix name with the appendix title, such as APPENDIX A: TITLE.  If you have only one appendix, title it APPENDIX: TITLE.
-
-% If you use chapter numbering and have only one appendix, you will need to comment out line 753 in the class file, containing the command \gdef\thechapter{\@Alph\c@chapter}}, and uncomment line 754 to define \gdef\thechapter{}} and remove the auto-lettering.
-
-
-\noindent\labelitemi{~Begin appendix text on the page following the buffer page by using the newpage command.}\\
-\labelitemi{~Continue Arabic pagination; do not restart page numbering with an appendix}\\
-\labelitemi{~Use the same style and format for buffer page headings as you do for other body chapter headings.}\\
-\labelitemi{~Letter, don't number, appendixes (e.g. APPENDIX A, APPENDIX B, etc.)}\\
-\labelitemi{~If you have only one appendix, do not letter it at all}\\
-\labelitemi{~Appendixes should follow the margin and other formatting requirements from the rest of the document}\\
 
 
 \chapter{SECOND APPENDIX}
